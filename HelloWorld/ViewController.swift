@@ -30,7 +30,7 @@ class ViewController: UIViewController {
         
         background.isHidden = false
         titleImg.isHidden = false
-        welcomeBtn.isHidden = false
+        welcomeBtn.isHidden = true
         
     }
 
